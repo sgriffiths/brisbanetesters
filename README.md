@@ -4,6 +4,9 @@ Brisbane Testers
 
 Repo for the Brisbane Software Testers Meetup
 
+Meetup : 
+http://www.meetup.com/Brisbane-Software-Testers-Meetup/
+
 ===============
 
 - Contains the meeting agenda items for each event
