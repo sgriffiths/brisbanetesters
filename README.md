@@ -1,4 +1,4 @@
-brisbanetesters
+Brisbane Testers
 ===============
 
 Repo for the Brisbane Software Testers Meetup
